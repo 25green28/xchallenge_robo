@@ -2,6 +2,8 @@
 
 Project contains resources, to make RC robot based on arduino and NRF24L01.
 
+Author: Mateusz Łaski 
+
 > [!NOTE]
 > Polish version is avaiable [here](otherLanguages/README_PL.md).
 
