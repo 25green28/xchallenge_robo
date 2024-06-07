@@ -2,6 +2,8 @@
 
 Projekt zawiera zasoby do wykonania robota RC opartego na arduino i NRF24L01.
 
+Autor: Mateusz Łaski
+
 > [!NOTE]
 > English version is avaiable [here](../README.md).
 ## Nadajnik - Arduino pro mini
